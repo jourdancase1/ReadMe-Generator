@@ -1,4 +1,7 @@
 # ReadMe Generator
+
+![Image of readme generator](https://github.com/jourdancase1/ReadMe-Generator/blob/master/Assets/readme-img.png)
+
 Create a command line application that will accept user input and generate a ReadMe.md file that is formatted to use in a github repository.
 
 ### Installation
